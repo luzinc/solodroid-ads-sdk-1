@@ -1,4 +1,4 @@
-package com.solodroid.ads.sdkdemo;
+package com.luzinc.ads.sdkdemo;
 
 import android.app.Application;
 import android.content.Intent;
@@ -7,8 +7,8 @@ import android.os.CountDownTimer;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.solodroid.ads.sdk.util.Constant;
-import com.solodroid.ads.sdk.util.OnShowAdCompleteListener;
+import com.luzinc.ads.sdk.util.Constant;
+import com.luzinc.ads.sdk.util.OnShowAdCompleteListener;
 
 public class ActivitySplash extends AppCompatActivity {
 
